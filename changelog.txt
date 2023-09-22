@@ -1,0 +1,71 @@
+v10.2:
+	+ Re-added temporary void physics (same as water)
+
+v10.1:
+	- Removed void physics
+	+ Added void selection button
+
+v10.0:
+	+ Added void tile
+	+ Added void physics
+
+v9.2:
+	- Removed cactus placement on water
+	- Removed 'script-2.js' file
+
+v9.1:
+	- Removed underground cacti
+
+v9.0:
+	+ Added water pool generation
+
+v8.2:
+	+ Added Discord invite link at credits
+	+ Repositioned credits
+
+v8.1:
+	+ Fixed tree generation (same issue as early water)
+
+v8.0:
+	+ Added tree generation
+
+v7.0:
+	+ Added cactus tile
+	+ Added log tile
+	+ Added leaves tile
+	+ Added leafy log tile
+	+ Added cacti generation
+	+ Added credits
+	+ Added cacti selection button
+	+ Added log selection button
+	+ Added leaves selection button
+	+ Added leafy log selection button
+	+ Changed overgrown dirt selection button text to grassy dirt
+
+v6.6:
+	+ Added a change log text file.
+
+v6.5:
+	- Removed a water movement technique due to bugs caused by moving to left or right.
+
+v6.4:
+	- Removed air tile button, it is useless.
+
+v6.3:
+	+ Re-scripted water, it does not spread and works correctly.
+	+ Added deserts (chance of appearing 1 in 5 times)
+	+ Added sand gravity.
+
+v5.0:
+	+ Added buttons to select a tile to place.
+	+ Fixed a few miscellaneous things.
+
+v4.2:
+	+ Added water tiles, but they spread and work incorrectly.
+
+v3.4:
+	+ Re-scripted everything from 2.0 to make more efficient and take less code.
+
+v2.0:
+	Oldest version available.
+	Not much is known of what has changed because everything previous is unaccessible.
